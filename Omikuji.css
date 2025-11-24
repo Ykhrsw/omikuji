@@ -1,0 +1,43 @@
+.omikuji {
+    text-align: center;
+    font-family: 'KouzanBrushFont', 'Yu Mincho', serif;
+    font-size: 1.4rem;
+    color: #b22222;
+    text-align: center;
+}
+
+.omikuji-headline {
+    padding-top: 50px;
+    padding-bottom: 30px;
+    width: 100%;
+    height: 100%;
+
+}
+
+.omikuji-result {}
+
+.omikujiResult {
+    
+}
+
+.omikuji-button {
+    margin-top: 40px;
+    font-weight: bold;
+    font-size: 1.5rem;
+    font-family: 'KouzanBrushFont', 'Yu Mincho', serif;
+    outline: black 3px solid;
+    color: #b22222;
+
+
+}
+
+.background {
+    z-index: -10;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0.3;
+
+}
